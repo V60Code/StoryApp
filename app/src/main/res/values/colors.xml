@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="black_secondary">#FF222831</color>
+    <color name="black_tertiary">#FF31363F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FFF6F6F6</color>
+    <color name="grey">#FFEBEBEB</color>
+    <color name="red">#FFE72929</color>
+    <color name="accent_primer">#37B7C3</color>
+    <color name="accent_secondary">#088395</color>
+    <color name="accent_tertiary">#071952</color>
+    <color name="accent_quaternary">#EBF4F6</color>
+    <color name="shimmerColor">#C2C2C2</color>
+</resources>
