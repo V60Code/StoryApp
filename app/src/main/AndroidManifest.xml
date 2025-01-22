@@ -27,7 +27,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAn2DD1GBdlJ4BTS5mIprHzwQ7Iqjb7Sw4" />
+            android:value="PAKE API SENDIRI YAAAA" />
 
         <activity
             android:name=".ui.maps.MapsActivity"
